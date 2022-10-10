@@ -1,1 +1,1 @@
-# Python
+Python alanında yaptığım çalışmaları paylaşmaktayım.
